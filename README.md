@@ -32,8 +32,12 @@ Folks can register their OAuth client_id/client_secret credentials for their OAU
 
 ## Run Probot/GitHub Apps in the browser
 
+Status: idea
+
 The pieces are mostly there. Imagine you open [https://probot.dev](https://probot.dev/) and you see an editor with a Probot App function and intenseness from all the typescript definitions. You can register a new GitHub App using the web manifest flow, and receive events using [smee.io](http://smee.io/) / Server Sent Events. When you are happy, you can "deploy" your probot function to a list of providers we support, by creating a github repository with all the necessary files and repository secrets for continuous delivery
 
 ## A web UI for https://github.com/octoherd/
+
+Status: idea
 
 Create and run octoherd scripts online, with dry runs and confirmations, so it would be low risk. And you could quickly hack together a script to update as many repos as you like at once
