@@ -4,6 +4,14 @@ I use this repository to keep track of side projects I plan to work on (or alrea
 
 <!-- toc -->
 
+- [Open Purse](#open-purse)
+- [Issue/PR reference expander app](#issuepr-reference-expander-app)
+- [A hosted GitHub OAuth service](#a-hosted-github-oauth-service)
+- [Run Probot/GitHub Apps in the browser](#run-probotgithub-apps-in-the-browser)
+- [A web UI for https://github.com/octoherd/](#a-web-ui-for-httpsgithubcomoctoherd)
+
+<!-- tocstop -->
+
 ## Open Purse
 
 Status: [work in progress](https://github.com/gr2m/open-purse)
