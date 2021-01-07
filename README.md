@@ -49,3 +49,18 @@ The pieces are mostly there. Imagine you open [https://probot.dev](https://probo
 Status: idea
 
 Create and run octoherd scripts online, with dry runs and confirmations, so it would be low risk. And you could quickly hack together a script to update as many repos as you like at once
+
+## [octokit.rest](https://octokit.rest) CLI
+
+[octokit.rest](https://octokit.rest) is a website to send requests to GitHub's REST API. It is built on [GitHub's OpenAPI Spec](https://github.com/octokit/openapi#readme). The main interactions are
+
+1. Search one of the 700+ REST API endpoints
+2. See the endpoint's details, such as description, parameters, example response
+3. Send an actual request
+
+Secondary actions are/will be
+
+4. Authentication. Using token/OAuth Web Flow/GitHub App Manifest Flow.
+5. Share. Share a parameterized request. I'd love to promote the tool for bug reports regarding GitHub's API.
+
+I feel the Website and CLI could share a lot of logic and could overal provide a similar user experience. I'd love to collaborate with someone with extensive React experience on this, I think the [next.js](https://github.com/zeit/next.js/#readme) would be a good framework to build the webside, and [ink](https://github.com/vadimdemedes/ink) might be a good framework to build the CLI. Both could share common React components. I'm open to alternatives though
