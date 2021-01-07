@@ -9,6 +9,7 @@ I use this repository to keep track of side projects I plan to work on (or alrea
 - [A hosted GitHub OAuth service](#a-hosted-github-oauth-service)
 - [Run Probot/GitHub Apps in the browser](#run-probotgithub-apps-in-the-browser)
 - [A web UI for https://github.com/octoherd/](#a-web-ui-for-httpsgithubcomoctoherd)
+- [octokit.rest](#octokitrest)
 
 <!-- tocstop -->
 
